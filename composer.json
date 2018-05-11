@@ -1,8 +1,8 @@
 {
-    "name": "golonka/bbcodeparser",
+    "name": "bgaweb/bbcodeparser",
     "description": "Parse your BBCode easy with this library.",
     "keywords": ["bbcode", "parser", "laravel", "psr-1", "psr-2", "psr-4"],
-    "homepage": "http://github.com/golonka/bbcodeparser",
+    "homepage": "http://github.com/bgaweb/bbcodeparser",
     "type": "library",
     "license": "MIT",
     "authors": [
